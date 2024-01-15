@@ -1,6 +1,6 @@
 <h1>Hey there, I'm <a  href="https://github.com/KadekMutiaSari/">Mutia Sari </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanyagupta0201)
+
 [![Gmail Badge](https://img.shields.io/badge/220030562@stikom-bali.ac.id-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:220030562@stikom-bali.ac.id)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
@@ -9,7 +9,6 @@ I am a second-year student majoring in Information Systems. I'd like to try more
 
 - 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
